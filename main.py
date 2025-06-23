@@ -9,7 +9,7 @@ def main():
         choice = input("> ")
 
         if choice == "1":
-            print("メンバー1のコメント")
+            print("みんなで頑張りましょう！")
         elif choice == "2":
             print("メンバー2のコメント")
         elif choice == "3":
@@ -22,3 +22,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
